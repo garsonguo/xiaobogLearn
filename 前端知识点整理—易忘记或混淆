@@ -1,0 +1,7 @@
+1.if 表达式
+
+* Null总是为假（false）
+* Undefined总是为假（false）
+* Number+0，-0 或是 NaN 的时候为假，其它值为真
+* String空字符串的时候为假，其它值为真
+* Object总是为真（true）
