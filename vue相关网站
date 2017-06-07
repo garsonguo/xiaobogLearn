@@ -11,3 +11,9 @@
 11.Vue.js 组件编码规范:https://github.com/sqrthree/vuejs-component-style-guide/blob/master/README-CN.md
 12.手把手教你写 Vue UI 组件库：https://github.com/Musiky/Article/blob/master/blog/vue-plugin.md
 13.不一样的Vue实战：http://yangyi1024.com/
+
+
+14.全栈开发之博客内容管理系统:Vuejs+Nodejs+Express+Mongodb
+https://github.com/wangzhongjie/BlogCms.git
+mongodb安装：http://jingyan.baidu.com/article/d5c4b52bef7268da560dc5f8.html
+Mongodb可视化工具：Robomongo  https://robomongo.org/
