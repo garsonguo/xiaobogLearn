@@ -5,3 +5,15 @@
 * Number+0，-0 或是 NaN 的时候为假，其它值为真
 * String空字符串的时候为假，其它值为真
 * Object总是为真（true）
+
+2.针对node饿了么面试回答下面问题
+JavaScript基础问题
+*JS类型判断  参考：http://www.cnblogs.com/dushao/p/5999563.html
+*作用域      参考：《你不知道的javascript》上卷
+*引用传递    参考：http://www.cnblogs.com/refe/p/5101744.html
+*内存        参考：https://eggggger.xyz/2016/10/22/node-gc/
+*ES6 新特性  参考：http://es6.ruanyifeng.com/
+
+
+
+
