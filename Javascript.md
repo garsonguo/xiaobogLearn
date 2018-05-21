@@ -1,7 +1,7 @@
 # Javascript
 ## 基础
 #### 我的整理
-1. JS从基础到高级：https://note.youdao.com/web/#/file/FEA2CBF891BD43B9A6B04988F014D6AC/note/0A2E216153724CADBEE3F77EA2E75DE5/
+1. JS从基础到高级：http://note.youdao.com/noteshare?id=41dc4972223f6cdc5492cae62d0d00f5
 2. 你不不知道的javascript:
     * 上：http://note.youdao.com/noteshare?id=61dbbcb925e40c2f9bdb6d35c54f0c53
     * 中：http://note.youdao.com/noteshare?id=c1884b6e015b0b747d37d12aa048b6b4
