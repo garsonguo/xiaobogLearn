@@ -1,4 +1,4 @@
-1.if 表达式
+1. if 表达式
 
 * Null总是为假（false）
 * Undefined总是为假（false）
@@ -6,7 +6,7 @@
 * String空字符串的时候为假，其它值为真
 * Object总是为真（true）
 
-2.针对node饿了么面试回答下面问题
+2. 针对node饿了么面试回答下面问题
 JavaScript基础问题
 *JS类型判断  参考：http://www.cnblogs.com/dushao/p/5999563.html
 *作用域      参考：《你不知道的javascript》上卷
@@ -15,7 +15,7 @@ JavaScript基础问题
 *ES6 新特性  参考：http://es6.ruanyifeng.com/
 
 
-3.时间处理函数
+3. 时间处理函数
 时间格式化  
 /* 
 *   功能:实现时间格式化d功能. 
