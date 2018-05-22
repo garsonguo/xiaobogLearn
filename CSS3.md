@@ -9,8 +9,7 @@
     * CSS3新特性（阴影、动画、渐变、变形、伪元素等）
     * 前端预处理技术（Less、Sass、CoffeeScript、TypeScript）
     * 浏览器兼容与前端性能优化
-
-
+2. flex布局：http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html?^%$
 
 # 其他
 1. 阿里矢量图标库：http://www.iconfont.cn/home/index?spm=a313x.7781069.1998910419.1.KtO7DH
