@@ -11,5 +11,6 @@
 2. 多年 JavaScript 学习笔记整理：https://juejin.im/entry/5812ec99570c3500605b366f/
 3. 前端开发基础 - JavaScript：https://juejin.im/entry/56c69793efa63100544477af/
 4. 你不知道的javascript：https://juejin.im/entry/57fde2520e3dd90057dbda6c/
+5. js基础知识总结：https://www.jianshu.com/p/1f2314552e23
 ## 进阶
 1. JS数据结构预算法：https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md
