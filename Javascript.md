@@ -12,3 +12,4 @@
 3. 前端开发基础 - JavaScript：https://juejin.im/entry/56c69793efa63100544477af/
 4. 你不知道的javascript：https://juejin.im/entry/57fde2520e3dd90057dbda6c/
 ## 进阶
+1. JS数据结构预算法：https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md
